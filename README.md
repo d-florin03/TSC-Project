@@ -5,6 +5,8 @@
 ##  Descriere general
 
 **OpenBook** este un e-book reader ieftin și complet open-source, dezvoltat în cadrul unui start-up care își propune să ofere o alternativă accesibilă și personalizabilă pentru cititul digital. Acest proiect este realizat în echipă, iar scopul este dezvoltarea completă a hardware-ului, de la specificații inițiale până la prototip pregătit pentru producție în masă.
+## Diagrama bloc
+    ![diagr](https://github.com/user-attachments/assets/7de404b1-9554-4f3a-9e42-261a1199df24)
 
 ## 📦 Componente hardware utilizate
 
